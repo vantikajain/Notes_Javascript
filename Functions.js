@@ -13,3 +13,5 @@ function sayHi(param){
 sayHi("10");
 sayHi('hellew');
 sayHi([1,2,3,4,5]);
+
+console.log("Hi");
